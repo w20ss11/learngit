@@ -11,3 +11,5 @@ Git is free software distributed under the GPL.
 Git change a lot.
 
 create a new branch is quick.
+
+feature1 branch problem: quick and merge.
