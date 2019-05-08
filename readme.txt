@@ -10,4 +10,4 @@ Git is free software distributed under the GPL.
 
 Git change a lot.
 
-create a new branch is quick.
+create a new branch is very quick.
